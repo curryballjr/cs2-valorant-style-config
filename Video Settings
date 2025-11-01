@@ -3,7 +3,7 @@ Aspect Ratio						Normal 4:3
 Resolution							1280 x 960
 
 Current Videos Values Preset		Custom
-Multisampling Anti-Aliasing Mode	CMAA2
+Multisampling Anti-Aliasing Mode	4X MSAA
 Global Shadow Quality				High
 Dynamic Shadows						All
 Model/Texture Detail				Low
@@ -11,5 +11,5 @@ Texture Filtering Mode				Trilinear
 Shader Detail						Low
 Particle Detail						Low
 Ambient Occlusion					Disabled
-High Dynamic Range					Performance
-FidelityFX Super Resolution			*Disabled (Highest Quality)
+High Dynamic Range					Quality
+FidelityFX Super Resolution			Disabled (Highest Quality)
